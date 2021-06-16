@@ -2,7 +2,7 @@
 Main Terraform template to provision an AWS VPC using this module: https://github.com/terraform-aws-modules/terraform-aws-vpc.
 
 Author: Chad Bartel
-Date:   2021-05-15
+Date:   2021-06-15
 */
 
 
